@@ -60,4 +60,13 @@ FAQ
 
 **If you use this modpack, you need to accept the disclaimers.**
 
-Disclaimers : Read the disclaimers.md
+Disclaimers
+------------------------------------------------------------------------
+By using this modpack, you agree to the following:
+
+1. The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. ***From Fabulously Optimized's disclaimers***
+    - The command /ghost (provided by AntiGhost) may be disallowed by the rules on some servers as it sends a slight amount of packets, but it is safe if you don't spam it, use only when you are stuck in blocks. ***From Fabulously Optimized's disclaimers***
+
+2. This modpack is using Starlight for chunk optimization and due to the way it works, disabling (or replacing) the mod will make your existing worlds initially load a bit slower. This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm. ***From Fabulously Optimized's disclaimers***
+
+3. You can **fork or remix** this pack, but you cannot use the **"Not Enough Optimized" or "Not Enough Optimized Quilt-Edition"** **name** or **logo** in your **fork** **(but you can mention that you forked it)**.
